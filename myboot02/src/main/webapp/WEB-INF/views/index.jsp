@@ -21,6 +21,11 @@
 			<img src="/image/apple.png">
 			
 			<br><br>
-		
+			
+				페이지 수정하고 재배포 테스트
+				Jenkins CI/CD
+				
+				DB 연동 수정 4:31
+			
 	</body>
 </html>
